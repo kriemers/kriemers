@@ -1,0 +1,30 @@
+body {background-color: burlywood; font-family: Helvetica;}
+
+h1 {text-align: center; font-size: 28pt; font-weight: bold; font-family: Helvetica;}
+
+h2 {text-align: left; font-size: 24pt; font-style: italic; font-family: Helvetica;}
+
+p1 {text-indent: 2em; font-size: 18pt;}
+
+p2 {text-indent: 2em; font-size: 18pt;}
+
+p3 {text-indent: 2em; font-size: 18pt;}
+
+
+p4, p5 {text-indent: 2em; font-size: 18pt;}
+
+table, tr, th, td {
+    border: 2px solid black
+}
+h1 {text-align: center; font-size: 28pt; font-weight: bold; font-family: Helvetica;}
+td {font-size: 16pt; text-align: center; font-family: Helvetica }
+th {font-size: 20pt; font-family: Helvetica;}
+p5 {text-indent: 2em; font-size: 18pt;}/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 23, 2024, 10:43:00 AM
+    Author     : kriemers
+*/
+
